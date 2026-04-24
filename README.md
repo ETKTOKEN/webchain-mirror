@@ -12,7 +12,7 @@
 ## Features
 - Mirrors WebChain blocks from WEBCHAIN BLOCKCHAIN
 - Reports new blocks back to the mother node
-- Allows validator transactions via Our CLI /withdraw + OTP confirmation
+- Allows validator transactions via CLI /withdraw + OTP confirmation
 - to submit transactions? Use our CLI/SDK `npm install webchain-blockchain-sdk`
 - Optional browser peer relay via WebRTC
 
