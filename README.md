@@ -10,7 +10,7 @@
 3. Run `npm start` to start the mirror node
 
 ## Features
-- Mirrors WebChain blocks from e-talk.xyz
+- Mirrors WebChain blocks from WEBCHAIN BLOCKCHAIN
 - Reports new blocks back to the mother node
 - Allows validator transactions via Our CLI /withdraw + OTP confirmation
 - to submit transactions? Use our CLI/SDK `npm install webchain-blockchain-sdk`
@@ -21,7 +21,7 @@
 ### Stop the Mirror
 If you want to stop the mirror node safely:
 - In the terminal where `npm start` is running, press `Ctrl + C`.  
-  This will stop the mirror immediately without affecting your local chain (`localChain.json`).
+  This will stop the mirror immediately without affecting your local chain (`chaindb`).
 
 - Alternatively, you can close the terminal where it’s running.
 
