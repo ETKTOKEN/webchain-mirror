@@ -1,0 +1,7 @@
+{
+  "base_url": "https://rpc.webchain.e-talk.xyz",
+  "user_id": 1,
+  "validator_wallet": "0xf51a1175098f814a751dc339b7d5a47f786fb3a4",
+  "apiPort": 3001,
+  "internalApiPort": 3002
+}
